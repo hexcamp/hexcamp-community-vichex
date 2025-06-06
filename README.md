@@ -1,7 +1,7 @@
 hexcamp-community-vichex
 ========================
 
-Data files for vichex.ca.
+Data files for [vichex.ca](https://vichex.ca/)
 
 # License
 
