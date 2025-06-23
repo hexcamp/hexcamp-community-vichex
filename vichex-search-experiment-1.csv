@@ -142,7 +142,7 @@ child_num,hex_id,dns_mapping,notes
 140,6kgrumqeaaaa,0.0.0.0.0.0.1.0.2.6.0.5.1.2.3.20.h3.vichex.ca.,
 141,6kgru4qeaaaa,0.0.0.0.0.0.1.0.2.6.1.5.1.2.3.20.h3.vichex.ca.,
 142,6kgrvmqeaaaa,0.0.0.0.0.0.1.0.2.6.2.5.1.2.3.20.h3.vichex.ca.,
-143,6kgrv4qeaaaa,0.0.0.0.0.0.1.0.2.6.3.5.1.2.3.20.h3.vichex.ca.,
+143,6kgrv4qeaaaa,0.0.0.0.0.0.1.0.2.6.3.5.1.2.3.20.h3.vichex.ca.,"Royal Oak Common Crawl Common Crawl"
 144,6kgrwmqeaaaa,0.0.0.0.0.0.1.0.2.6.4.5.1.2.3.20.h3.vichex.ca.,
 145,6kgrw4qeaaaa,0.0.0.0.0.0.1.0.2.6.5.5.1.2.3.20.h3.vichex.ca.,
 146,6kgrxmqeaaaa,0.0.0.0.0.0.1.0.2.6.6.5.1.2.3.20.h3.vichex.ca.,
@@ -232,7 +232,7 @@ child_num,hex_id,dns_mapping,notes
 230,6kgrxjaeaaaa,0.0.0.0.0.0.1.0.4.4.6.5.1.2.3.20.h3.vichex.ca.,
 231,6kgrulaeaaaa,0.0.0.0.0.0.1.0.4.5.0.5.1.2.3.20.h3.vichex.ca.,
 232,6kgru3aeaaaa,0.0.0.0.0.0.1.0.4.5.1.5.1.2.3.20.h3.vichex.ca.,
-233,6kgrvlaeaaaa,0.0.0.0.0.0.1.0.4.5.2.5.1.2.3.20.h3.vichex.ca.,"North Park"
+233,6kgrvlaeaaaa,0.0.0.0.0.0.1.0.4.5.2.5.1.2.3.20.h3.vichex.ca.,"North Park Common Crawl Common Crawl"
 234,6kgrv3aeaaaa,0.0.0.0.0.0.1.0.4.5.3.5.1.2.3.20.h3.vichex.ca.,
 235,6kgrwlaeaaaa,0.0.0.0.0.0.1.0.4.5.4.5.1.2.3.20.h3.vichex.ca.,
 236,6kgrw3aeaaaa,0.0.0.0.0.0.1.0.4.5.5.5.1.2.3.20.h3.vichex.ca.,
@@ -281,7 +281,7 @@ child_num,hex_id,dns_mapping,notes
 279,6kgrxjieaaaa,0.0.0.0.0.0.1.0.5.4.6.5.1.2.3.20.h3.vichex.ca.,
 280,6kgrulieaaaa,0.0.0.0.0.0.1.0.5.5.0.5.1.2.3.20.h3.vichex.ca.,
 281,6kgru3ieaaaa,0.0.0.0.0.0.1.0.5.5.1.5.1.2.3.20.h3.vichex.ca.,
-282,6kgrvlieaaaa,0.0.0.0.0.0.1.0.5.5.2.5.1.2.3.20.h3.vichex.ca.,"Vic West"
+282,6kgrvlieaaaa,0.0.0.0.0.0.1.0.5.5.2.5.1.2.3.20.h3.vichex.ca.,"Vic West Common Crawl"
 283,6kgrv3ieaaaa,0.0.0.0.0.0.1.0.5.5.3.5.1.2.3.20.h3.vichex.ca.,
 284,6kgrwlieaaaa,0.0.0.0.0.0.1.0.5.5.4.5.1.2.3.20.h3.vichex.ca.,
 285,6kgrw3ieaaaa,0.0.0.0.0.0.1.0.5.5.5.5.1.2.3.20.h3.vichex.ca.,
@@ -330,7 +330,7 @@ child_num,hex_id,dns_mapping,notes
 328,6kgrxjqeaaaa,0.0.0.0.0.0.1.0.6.4.6.5.1.2.3.20.h3.vichex.ca.,
 329,6kgrulqeaaaa,0.0.0.0.0.0.1.0.6.5.0.5.1.2.3.20.h3.vichex.ca.,
 330,6kgru3qeaaaa,0.0.0.0.0.0.1.0.6.5.1.5.1.2.3.20.h3.vichex.ca.,
-331,6kgrvlqeaaaa,0.0.0.0.0.0.1.0.6.5.2.5.1.2.3.20.h3.vichex.ca.,"North Jubilee"
+331,6kgrvlqeaaaa,0.0.0.0.0.0.1.0.6.5.2.5.1.2.3.20.h3.vichex.ca.,"North Jubilee Common Crawl"
 332,6kgrv3qeaaaa,0.0.0.0.0.0.1.0.6.5.3.5.1.2.3.20.h3.vichex.ca.,
 333,6kgrwlqeaaaa,0.0.0.0.0.0.1.0.6.5.4.5.1.2.3.20.h3.vichex.ca.,
 334,6kgrw3qeaaaa,0.0.0.0.0.0.1.0.6.5.5.5.1.2.3.20.h3.vichex.ca.,
@@ -786,7 +786,7 @@ child_num,hex_id,dns_mapping,notes
 784,6kgruaseaaaa,0.0.0.0.0.0.1.2.2.0.0.5.1.2.3.20.h3.vichex.ca.,
 785,6kgruqseaaaa,0.0.0.0.0.0.1.2.2.0.1.5.1.2.3.20.h3.vichex.ca.,
 786,6kgrvaseaaaa,0.0.0.0.0.0.1.2.2.0.2.5.1.2.3.20.h3.vichex.ca.,
-787,6kgrvqseaaaa,0.0.0.0.0.0.1.2.2.0.3.5.1.2.3.20.h3.vichex.ca.,
+787,6kgrvqseaaaa,0.0.0.0.0.0.1.2.2.0.3.5.1.2.3.20.h3.vichex.ca.,"Prospect Lake Common Crawl"
 788,6kgrwaseaaaa,0.0.0.0.0.0.1.2.2.0.4.5.1.2.3.20.h3.vichex.ca.,
 789,6kgrwqseaaaa,0.0.0.0.0.0.1.2.2.0.5.5.1.2.3.20.h3.vichex.ca.,
 790,6kgrxaseaaaa,0.0.0.0.0.0.1.2.2.0.6.5.1.2.3.20.h3.vichex.ca.,
@@ -828,7 +828,7 @@ child_num,hex_id,dns_mapping,notes
 826,6kgrumseaaaa,0.0.0.0.0.0.1.2.2.6.0.5.1.2.3.20.h3.vichex.ca.,
 827,6kgru4seaaaa,0.0.0.0.0.0.1.2.2.6.1.5.1.2.3.20.h3.vichex.ca.,
 828,6kgrvmseaaaa,0.0.0.0.0.0.1.2.2.6.2.5.1.2.3.20.h3.vichex.ca.,
-829,6kgrv4seaaaa,0.0.0.0.0.0.1.2.2.6.3.5.1.2.3.20.h3.vichex.ca.,
+829,6kgrv4seaaaa,0.0.0.0.0.0.1.2.2.6.3.5.1.2.3.20.h3.vichex.ca.,"Braodmead Common Crawl"
 830,6kgrwmseaaaa,0.0.0.0.0.0.1.2.2.6.4.5.1.2.3.20.h3.vichex.ca.,
 831,6kgrw4seaaaa,0.0.0.0.0.0.1.2.2.6.5.5.1.2.3.20.h3.vichex.ca.,
 832,6kgrxmseaaaa,0.0.0.0.0.0.1.2.2.6.6.5.1.2.3.20.h3.vichex.ca.,
@@ -846,7 +846,7 @@ child_num,hex_id,dns_mapping,notes
 844,6kgrwc2eaaaa,0.0.0.0.0.0.1.2.3.1.4.5.1.2.3.20.h3.vichex.ca.,
 845,6kgrws2eaaaa,0.0.0.0.0.0.1.2.3.1.5.5.1.2.3.20.h3.vichex.ca.,
 846,6kgrxc2eaaaa,0.0.0.0.0.0.1.2.3.1.6.5.1.2.3.20.h3.vichex.ca.,
-847,6kgrue2eaaaa,0.0.0.0.0.0.1.2.3.2.0.5.1.2.3.20.h3.vichex.ca.,"James Bay"
+847,6kgrue2eaaaa,0.0.0.0.0.0.1.2.3.2.0.5.1.2.3.20.h3.vichex.ca.,"James Bay Common Crawl"
 848,6kgruu2eaaaa,0.0.0.0.0.0.1.2.3.2.1.5.1.2.3.20.h3.vichex.ca.,
 849,6kgrve2eaaaa,0.0.0.0.0.0.1.2.3.2.2.5.1.2.3.20.h3.vichex.ca.,
 850,6kgrvu2eaaaa,0.0.0.0.0.0.1.2.3.2.3.5.1.2.3.20.h3.vichex.ca.,
@@ -890,7 +890,7 @@ child_num,hex_id,dns_mapping,notes
 888,6kgrxbceaaaa,0.0.0.0.0.0.1.2.4.0.6.5.1.2.3.20.h3.vichex.ca.,
 889,6kgrudceaaaa,0.0.0.0.0.0.1.2.4.1.0.5.1.2.3.20.h3.vichex.ca.,
 890,6kgrutceaaaa,0.0.0.0.0.0.1.2.4.1.1.5.1.2.3.20.h3.vichex.ca.,
-891,6kgrvdceaaaa,0.0.0.0.0.0.1.2.4.1.2.5.1.2.3.20.h3.vichex.ca.,
+891,6kgrvdceaaaa,0.0.0.0.0.0.1.2.4.1.2.5.1.2.3.20.h3.vichex.ca.,"Gordon Head Common Crawl"
 892,6kgrvtceaaaa,0.0.0.0.0.0.1.2.4.1.3.5.1.2.3.20.h3.vichex.ca.,
 893,6kgrwdceaaaa,0.0.0.0.0.0.1.2.4.1.4.5.1.2.3.20.h3.vichex.ca.,
 894,6kgrwtceaaaa,0.0.0.0.0.0.1.2.4.1.5.5.1.2.3.20.h3.vichex.ca.,
@@ -918,7 +918,7 @@ child_num,hex_id,dns_mapping,notes
 916,6kgrxjceaaaa,0.0.0.0.0.0.1.2.4.4.6.5.1.2.3.20.h3.vichex.ca.,
 917,6kgrulceaaaa,0.0.0.0.0.0.1.2.4.5.0.5.1.2.3.20.h3.vichex.ca.,
 918,6kgru3ceaaaa,0.0.0.0.0.0.1.2.4.5.1.5.1.2.3.20.h3.vichex.ca.,
-919,6kgrvlceaaaa,0.0.0.0.0.0.1.2.4.5.2.5.1.2.3.20.h3.vichex.ca.,"Fernwood NRG"
+919,6kgrvlceaaaa,0.0.0.0.0.0.1.2.4.5.2.5.1.2.3.20.h3.vichex.ca.,"Fernwood NRG Common Crawl"
 920,6kgrv3ceaaaa,0.0.0.0.0.0.1.2.4.5.3.5.1.2.3.20.h3.vichex.ca.,
 921,6kgrwlceaaaa,0.0.0.0.0.0.1.2.4.5.4.5.1.2.3.20.h3.vichex.ca.,
 922,6kgrw3ceaaaa,0.0.0.0.0.0.1.2.4.5.5.5.1.2.3.20.h3.vichex.ca.,
@@ -1024,7 +1024,7 @@ child_num,hex_id,dns_mapping,notes
 1022,6kgrunseaaaa,0.0.0.0.0.0.1.2.6.6.0.5.1.2.3.20.h3.vichex.ca.,
 1023,6kgru5seaaaa,0.0.0.0.0.0.1.2.6.6.1.5.1.2.3.20.h3.vichex.ca.,
 1024,6kgrvnseaaaa,0.0.0.0.0.0.1.2.6.6.2.5.1.2.3.20.h3.vichex.ca.,
-1025,6kgrv5seaaaa,0.0.0.0.0.0.1.2.6.6.3.5.1.2.3.20.h3.vichex.ca.,
+1025,6kgrv5seaaaa,0.0.0.0.0.0.1.2.6.6.3.5.1.2.3.20.h3.vichex.ca.,"North Quadra Common Crawl"
 1026,6kgrwnseaaaa,0.0.0.0.0.0.1.2.6.6.4.5.1.2.3.20.h3.vichex.ca.,
 1027,6kgrw5seaaaa,0.0.0.0.0.0.1.2.6.6.5.5.1.2.3.20.h3.vichex.ca.,
 1028,6kgrxnseaaaa,0.0.0.0.0.0.1.2.6.6.6.5.1.2.3.20.h3.vichex.ca.,
@@ -1114,7 +1114,7 @@ child_num,hex_id,dns_mapping,notes
 1112,6kgrxileaaaa,0.0.0.0.0.0.1.3.1.4.6.5.1.2.3.20.h3.vichex.ca.,
 1113,6kgrukleaaaa,0.0.0.0.0.0.1.3.1.5.0.5.1.2.3.20.h3.vichex.ca.,
 1114,6kgru2leaaaa,0.0.0.0.0.0.1.3.1.5.1.5.1.2.3.20.h3.vichex.ca.,
-1115,6kgrvkleaaaa,0.0.0.0.0.0.1.3.1.5.2.5.1.2.3.20.h3.vichex.ca.,
+1115,6kgrvkleaaaa,0.0.0.0.0.0.1.3.1.5.2.5.1.2.3.20.h3.vichex.ca.,"Mount View Colquitz Common Crawl"
 1116,6kgrv2leaaaa,0.0.0.0.0.0.1.3.1.5.3.5.1.2.3.20.h3.vichex.ca.,
 1117,6kgrwkleaaaa,0.0.0.0.0.0.1.3.1.5.4.5.1.2.3.20.h3.vichex.ca.,
 1118,6kgrw2leaaaa,0.0.0.0.0.0.1.3.1.5.5.5.1.2.3.20.h3.vichex.ca.,
@@ -1140,7 +1140,7 @@ child_num,hex_id,dns_mapping,notes
 1138,6kgrwcteaaaa,0.0.0.0.0.0.1.3.2.1.4.5.1.2.3.20.h3.vichex.ca.,
 1139,6kgrwsteaaaa,0.0.0.0.0.0.1.3.2.1.5.5.1.2.3.20.h3.vichex.ca.,
 1140,6kgrxcteaaaa,0.0.0.0.0.0.1.3.2.1.6.5.1.2.3.20.h3.vichex.ca.,
-1141,6kgrueteaaaa,0.0.0.0.0.0.1.3.2.2.0.5.1.2.3.20.h3.vichex.ca.,"Fairfield Gonzalez"
+1141,6kgrueteaaaa,0.0.0.0.0.0.1.3.2.2.0.5.1.2.3.20.h3.vichex.ca.,"Fairfield Gonzalez Common Crawl"
 1142,6kgruuteaaaa,0.0.0.0.0.0.1.3.2.2.1.5.1.2.3.20.h3.vichex.ca.,
 1143,6kgrveteaaaa,0.0.0.0.0.0.1.3.2.2.2.5.1.2.3.20.h3.vichex.ca.,
 1144,6kgrvuteaaaa,0.0.0.0.0.0.1.3.2.2.3.5.1.2.3.20.h3.vichex.ca.,
@@ -1171,7 +1171,7 @@ child_num,hex_id,dns_mapping,notes
 1169,6kgrumteaaaa,0.0.0.0.0.0.1.3.2.6.0.5.1.2.3.20.h3.vichex.ca.,
 1170,6kgru4teaaaa,0.0.0.0.0.0.1.3.2.6.1.5.1.2.3.20.h3.vichex.ca.,
 1171,6kgrvmteaaaa,0.0.0.0.0.0.1.3.2.6.2.5.1.2.3.20.h3.vichex.ca.,
-1172,6kgrv4teaaaa,0.0.0.0.0.0.1.3.2.6.3.5.1.2.3.20.h3.vichex.ca.,
+1172,6kgrv4teaaaa,0.0.0.0.0.0.1.3.2.6.3.5.1.2.3.20.h3.vichex.ca.,"Falaise Common Crawl"
 1173,6kgrwmteaaaa,0.0.0.0.0.0.1.3.2.6.4.5.1.2.3.20.h3.vichex.ca.,
 1174,6kgrw4teaaaa,0.0.0.0.0.0.1.3.2.6.5.5.1.2.3.20.h3.vichex.ca.,
 1175,6kgrxmteaaaa,0.0.0.0.0.0.1.3.2.6.6.5.1.2.3.20.h3.vichex.ca.,
@@ -1310,7 +1310,7 @@ child_num,hex_id,dns_mapping,notes
 1308,6kgrxjleaaaa,0.0.0.0.0.0.1.3.5.4.6.5.1.2.3.20.h3.vichex.ca.,
 1309,6kgrulleaaaa,0.0.0.0.0.0.1.3.5.5.0.5.1.2.3.20.h3.vichex.ca.,
 1310,6kgru3leaaaa,0.0.0.0.0.0.1.3.5.5.1.5.1.2.3.20.h3.vichex.ca.,
-1311,6kgrvlleaaaa,0.0.0.0.0.0.1.3.5.5.2.5.1.2.3.20.h3.vichex.ca.,"Burnside Gorge"
+1311,6kgrvlleaaaa,0.0.0.0.0.0.1.3.5.5.2.5.1.2.3.20.h3.vichex.ca.,"Burnside Gorge Common Crawl"
 1312,6kgrv3leaaaa,0.0.0.0.0.0.1.3.5.5.3.5.1.2.3.20.h3.vichex.ca.,
 1313,6kgrwlleaaaa,0.0.0.0.0.0.1.3.5.5.4.5.1.2.3.20.h3.vichex.ca.,
 1314,6kgrw3leaaaa,0.0.0.0.0.0.1.3.5.5.5.5.1.2.3.20.h3.vichex.ca.,
@@ -1408,7 +1408,7 @@ child_num,hex_id,dns_mapping,notes
 1406,6kgrxieeaaaa,0.0.0.0.0.0.1.4.0.4.6.5.1.2.3.20.h3.vichex.ca.,
 1407,6kgrukeeaaaa,0.0.0.0.0.0.1.4.0.5.0.5.1.2.3.20.h3.vichex.ca.,
 1408,6kgru2eeaaaa,0.0.0.0.0.0.1.4.0.5.1.5.1.2.3.20.h3.vichex.ca.,
-1409,6kgrvkeeaaaa,0.0.0.0.0.0.1.4.0.5.2.5.1.2.3.20.h3.vichex.ca.,"Quadra Village"
+1409,6kgrvkeeaaaa,0.0.0.0.0.0.1.4.0.5.2.5.1.2.3.20.h3.vichex.ca.,"Quadra Village Common Crawl"
 1410,6kgrv2eeaaaa,0.0.0.0.0.0.1.4.0.5.3.5.1.2.3.20.h3.vichex.ca.,
 1411,6kgrwkeeaaaa,0.0.0.0.0.0.1.4.0.5.4.5.1.2.3.20.h3.vichex.ca.,
 1412,6kgrw2eeaaaa,0.0.0.0.0.0.1.4.0.5.5.5.1.2.3.20.h3.vichex.ca.,
@@ -1555,7 +1555,7 @@ child_num,hex_id,dns_mapping,notes
 1553,6kgrxi4eaaaa,0.0.0.0.0.0.1.4.3.4.6.5.1.2.3.20.h3.vichex.ca.,
 1554,6kgruk4eaaaa,0.0.0.0.0.0.1.4.3.5.0.5.1.2.3.20.h3.vichex.ca.,
 1555,6kgru24eaaaa,0.0.0.0.0.0.1.4.3.5.1.5.1.2.3.20.h3.vichex.ca.,
-1556,6kgrvk4eaaaa,0.0.0.0.0.0.1.4.3.5.2.5.1.2.3.20.h3.vichex.ca.,
+1556,6kgrvk4eaaaa,0.0.0.0.0.0.1.4.3.5.2.5.1.2.3.20.h3.vichex.ca.,"Quadra Cedar Hill Common Crawl"
 1557,6kgrv24eaaaa,0.0.0.0.0.0.1.4.3.5.3.5.1.2.3.20.h3.vichex.ca.,
 1558,6kgrwk4eaaaa,0.0.0.0.0.0.1.4.3.5.4.5.1.2.3.20.h3.vichex.ca.,
 1559,6kgrw24eaaaa,0.0.0.0.0.0.1.4.3.5.5.5.1.2.3.20.h3.vichex.ca.,
@@ -1682,7 +1682,7 @@ child_num,hex_id,dns_mapping,notes
 1680,6kgrufueaaaa,0.0.0.0.0.0.1.4.6.2.0.5.1.2.3.20.h3.vichex.ca.,
 1681,6kgruvueaaaa,0.0.0.0.0.0.1.4.6.2.1.5.1.2.3.20.h3.vichex.ca.,
 1682,6kgrvfueaaaa,0.0.0.0.0.0.1.4.6.2.2.5.1.2.3.20.h3.vichex.ca.,
-1683,6kgrvvueaaaa,0.0.0.0.0.0.1.4.6.2.3.5.1.2.3.20.h3.vichex.ca.,
+1683,6kgrvvueaaaa,0.0.0.0.0.0.1.4.6.2.3.5.1.2.3.20.h3.vichex.ca.,"Cordova Bay Common Crawl"
 1684,6kgrwfueaaaa,0.0.0.0.0.0.1.4.6.2.4.5.1.2.3.20.h3.vichex.ca.,
 1685,6kgrwvueaaaa,0.0.0.0.0.0.1.4.6.2.5.5.1.2.3.20.h3.vichex.ca.,
 1686,6kgrxfueaaaa,0.0.0.0.0.0.1.4.6.2.6.5.1.2.3.20.h3.vichex.ca.,
@@ -1702,7 +1702,7 @@ child_num,hex_id,dns_mapping,notes
 1700,6kgrxjueaaaa,0.0.0.0.0.0.1.4.6.4.6.5.1.2.3.20.h3.vichex.ca.,
 1701,6kgrulueaaaa,0.0.0.0.0.0.1.4.6.5.0.5.1.2.3.20.h3.vichex.ca.,
 1702,6kgru3ueaaaa,0.0.0.0.0.0.1.4.6.5.1.5.1.2.3.20.h3.vichex.ca.,
-1703,6kgrvlueaaaa,0.0.0.0.0.0.1.4.6.5.2.5.1.2.3.20.h3.vichex.ca.,"South Jubilee"
+1703,6kgrvlueaaaa,0.0.0.0.0.0.1.4.6.5.2.5.1.2.3.20.h3.vichex.ca.,"South Jubilee Common Crawl"
 1704,6kgrv3ueaaaa,0.0.0.0.0.0.1.4.6.5.3.5.1.2.3.20.h3.vichex.ca.,
 1705,6kgrwlueaaaa,0.0.0.0.0.0.1.4.6.5.4.5.1.2.3.20.h3.vichex.ca.,
 1706,6kgrw3ueaaaa,0.0.0.0.0.0.1.4.6.5.5.5.1.2.3.20.h3.vichex.ca.,
@@ -1716,7 +1716,7 @@ child_num,hex_id,dns_mapping,notes
 1714,6kgrxnueaaaa,0.0.0.0.0.0.1.4.6.6.6.5.1.2.3.20.h3.vichex.ca.,
 1715,6kgruafeaaaa,0.0.0.0.0.0.1.5.0.0.0.5.1.2.3.20.h3.vichex.ca.,
 1716,6kgruqfeaaaa,0.0.0.0.0.0.1.5.0.0.1.5.1.2.3.20.h3.vichex.ca.,
-1717,6kgrvafeaaaa,0.0.0.0.0.0.1.5.0.0.2.5.1.2.3.20.h3.vichex.ca.,
+1717,6kgrvafeaaaa,0.0.0.0.0.0.1.5.0.0.2.5.1.2.3.20.h3.vichex.ca.,"Cadboro Bay Common Crawl"
 1718,6kgrvqfeaaaa,0.0.0.0.0.0.1.5.0.0.3.5.1.2.3.20.h3.vichex.ca.,
 1719,6kgrwafeaaaa,0.0.0.0.0.0.1.5.0.0.4.5.1.2.3.20.h3.vichex.ca.,
 1720,6kgrwqfeaaaa,0.0.0.0.0.0.1.5.0.0.5.5.1.2.3.20.h3.vichex.ca.,
@@ -1793,14 +1793,14 @@ child_num,hex_id,dns_mapping,notes
 1791,6kgrxgneaaaa,0.0.0.0.0.0.1.5.1.3.6.5.1.2.3.20.h3.vichex.ca.,
 1792,6kgruineaaaa,0.0.0.0.0.0.1.5.1.4.0.5.1.2.3.20.h3.vichex.ca.,
 1793,6kgruyneaaaa,0.0.0.0.0.0.1.5.1.4.1.5.1.2.3.20.h3.vichex.ca.,
-1794,6kgrvineaaaa,0.0.0.0.0.0.1.5.1.4.2.5.1.2.3.20.h3.vichex.ca.,"Rockland"
+1794,6kgrvineaaaa,0.0.0.0.0.0.1.5.1.4.2.5.1.2.3.20.h3.vichex.ca.,"Rockland Common Crawl"
 1795,6kgrvyneaaaa,0.0.0.0.0.0.1.5.1.4.3.5.1.2.3.20.h3.vichex.ca.,
 1796,6kgrwineaaaa,0.0.0.0.0.0.1.5.1.4.4.5.1.2.3.20.h3.vichex.ca.,
 1797,6kgrwyneaaaa,0.0.0.0.0.0.1.5.1.4.5.5.1.2.3.20.h3.vichex.ca.,
 1798,6kgrxineaaaa,0.0.0.0.0.0.1.5.1.4.6.5.1.2.3.20.h3.vichex.ca.,
 1799,6kgrukneaaaa,0.0.0.0.0.0.1.5.1.5.0.5.1.2.3.20.h3.vichex.ca.,
 1800,6kgru2neaaaa,0.0.0.0.0.0.1.5.1.5.1.5.1.2.3.20.h3.vichex.ca.,
-1801,6kgrvkneaaaa,0.0.0.0.0.0.1.5.1.5.2.5.1.2.3.20.h3.vichex.ca.,"Gorge Tillicum"
+1801,6kgrvkneaaaa,0.0.0.0.0.0.1.5.1.5.2.5.1.2.3.20.h3.vichex.ca.,"Gorge Tillicum Common Crawl"
 1802,6kgrv2neaaaa,0.0.0.0.0.0.1.5.1.5.3.5.1.2.3.20.h3.vichex.ca.,
 1803,6kgrwkneaaaa,0.0.0.0.0.0.1.5.1.5.4.5.1.2.3.20.h3.vichex.ca.,
 1804,6kgrw2neaaaa,0.0.0.0.0.0.1.5.1.5.5.5.1.2.3.20.h3.vichex.ca.,
@@ -1891,7 +1891,7 @@ child_num,hex_id,dns_mapping,notes
 1889,6kgrxg5eaaaa,0.0.0.0.0.0.1.5.3.3.6.5.1.2.3.20.h3.vichex.ca.,
 1890,6kgrui5eaaaa,0.0.0.0.0.0.1.5.3.4.0.5.1.2.3.20.h3.vichex.ca.,
 1891,6kgruy5eaaaa,0.0.0.0.0.0.1.5.3.4.1.5.1.2.3.20.h3.vichex.ca.,
-1892,6kgrvi5eaaaa,0.0.0.0.0.0.1.5.3.4.2.5.1.2.3.20.h3.vichex.ca.,
+1892,6kgrvi5eaaaa,0.0.0.0.0.0.1.5.3.4.2.5.1.2.3.20.h3.vichex.ca.,"Camosun Common Crawl"
 1893,6kgrvy5eaaaa,0.0.0.0.0.0.1.5.3.4.3.5.1.2.3.20.h3.vichex.ca.,
 1894,6kgrwi5eaaaa,0.0.0.0.0.0.1.5.3.4.4.5.1.2.3.20.h3.vichex.ca.,
 1895,6kgrwy5eaaaa,0.0.0.0.0.0.1.5.3.4.5.5.1.2.3.20.h3.vichex.ca.,
@@ -1947,7 +1947,7 @@ child_num,hex_id,dns_mapping,notes
 1945,6kgrxjfeaaaa,0.0.0.0.0.0.1.5.4.4.6.5.1.2.3.20.h3.vichex.ca.,
 1946,6kgrulfeaaaa,0.0.0.0.0.0.1.5.4.5.0.5.1.2.3.20.h3.vichex.ca.,
 1947,6kgru3feaaaa,0.0.0.0.0.0.1.5.4.5.1.5.1.2.3.20.h3.vichex.ca.,
-1948,6kgrvlfeaaaa,0.0.0.0.0.0.1.5.4.5.2.5.1.2.3.20.h3.vichex.ca.,"Downtown Residents"
+1948,6kgrvlfeaaaa,0.0.0.0.0.0.1.5.4.5.2.5.1.2.3.20.h3.vichex.ca.,"Downtown Residents Common Crawl"
 1949,6kgrv3feaaaa,0.0.0.0.0.0.1.5.4.5.3.5.1.2.3.20.h3.vichex.ca.,
 1950,6kgrwlfeaaaa,0.0.0.0.0.0.1.5.4.5.4.5.1.2.3.20.h3.vichex.ca.,
 1951,6kgrw3feaaaa,0.0.0.0.0.0.1.5.4.5.5.5.1.2.3.20.h3.vichex.ca.,
@@ -2045,7 +2045,7 @@ child_num,hex_id,dns_mapping,notes
 2043,6kgrxjveaaaa,0.0.0.0.0.0.1.5.6.4.6.5.1.2.3.20.h3.vichex.ca.,
 2044,6kgrulveaaaa,0.0.0.0.0.0.1.5.6.5.0.5.1.2.3.20.h3.vichex.ca.,
 2045,6kgru3veaaaa,0.0.0.0.0.0.1.5.6.5.1.5.1.2.3.20.h3.vichex.ca.,
-2046,6kgrvlveaaaa,0.0.0.0.0.0.1.5.6.5.2.5.1.2.3.20.h3.vichex.ca.,"Fernwood Community and Arts"
+2046,6kgrvlveaaaa,0.0.0.0.0.0.1.5.6.5.2.5.1.2.3.20.h3.vichex.ca.,"Fernwood Community and Arts Common Crawl"
 2047,6kgrv3veaaaa,0.0.0.0.0.0.1.5.6.5.3.5.1.2.3.20.h3.vichex.ca.,
 2048,6kgrwlveaaaa,0.0.0.0.0.0.1.5.6.5.4.5.1.2.3.20.h3.vichex.ca.,
 2049,6kgrw3veaaaa,0.0.0.0.0.0.1.5.6.5.5.5.1.2.3.20.h3.vichex.ca.,
@@ -2053,7 +2053,7 @@ child_num,hex_id,dns_mapping,notes
 2051,6kgrunveaaaa,0.0.0.0.0.0.1.5.6.6.0.5.1.2.3.20.h3.vichex.ca.,
 2052,6kgru5veaaaa,0.0.0.0.0.0.1.5.6.6.1.5.1.2.3.20.h3.vichex.ca.,
 2053,6kgrvnveaaaa,0.0.0.0.0.0.1.5.6.6.2.5.1.2.3.20.h3.vichex.ca.,
-2054,6kgrv5veaaaa,0.0.0.0.0.0.1.5.6.6.3.5.1.2.3.20.h3.vichex.ca.,
+2054,6kgrv5veaaaa,0.0.0.0.0.0.1.5.6.6.3.5.1.2.3.20.h3.vichex.ca.,"Carey Area Common Crawl"
 2055,6kgrwnveaaaa,0.0.0.0.0.0.1.5.6.6.4.5.1.2.3.20.h3.vichex.ca.,
 2056,6kgrw5veaaaa,0.0.0.0.0.0.1.5.6.6.5.5.1.2.3.20.h3.vichex.ca.,
 2057,6kgrxnveaaaa,0.0.0.0.0.0.1.5.6.6.6.5.1.2.3.20.h3.vichex.ca.,
@@ -2094,7 +2094,7 @@ child_num,hex_id,dns_mapping,notes
 2092,6kgrxigeaaaa,0.0.0.0.0.0.1.6.0.4.6.5.1.2.3.20.h3.vichex.ca.,
 2093,6kgrukgeaaaa,0.0.0.0.0.0.1.6.0.5.0.5.1.2.3.20.h3.vichex.ca.,
 2094,6kgru2geaaaa,0.0.0.0.0.0.1.6.0.5.1.5.1.2.3.20.h3.vichex.ca.,
-2095,6kgrvkgeaaaa,0.0.0.0.0.0.1.6.0.5.2.5.1.2.3.20.h3.vichex.ca.,"Oaklands"
+2095,6kgrvkgeaaaa,0.0.0.0.0.0.1.6.0.5.2.5.1.2.3.20.h3.vichex.ca.,"Oaklands Common Crawl"
 2096,6kgrv2geaaaa,0.0.0.0.0.0.1.6.0.5.3.5.1.2.3.20.h3.vichex.ca.,
 2097,6kgrwkgeaaaa,0.0.0.0.0.0.1.6.0.5.4.5.1.2.3.20.h3.vichex.ca.,
 2098,6kgrw2geaaaa,0.0.0.0.0.0.1.6.0.5.5.5.1.2.3.20.h3.vichex.ca.,
@@ -2192,7 +2192,7 @@ child_num,hex_id,dns_mapping,notes
 2190,6kgrxiweaaaa,0.0.0.0.0.0.1.6.2.4.6.5.1.2.3.20.h3.vichex.ca.,
 2191,6kgrukweaaaa,0.0.0.0.0.0.1.6.2.5.0.5.1.2.3.20.h3.vichex.ca.,
 2192,6kgru2weaaaa,0.0.0.0.0.0.1.6.2.5.1.5.1.2.3.20.h3.vichex.ca.,
-2193,6kgrvkweaaaa,0.0.0.0.0.0.1.6.2.5.2.5.1.2.3.20.h3.vichex.ca.,
+2193,6kgrvkweaaaa,0.0.0.0.0.0.1.6.2.5.2.5.1.2.3.20.h3.vichex.ca.,"Mount Tolmie Common Crawl"
 2194,6kgrv2weaaaa,0.0.0.0.0.0.1.6.2.5.3.5.1.2.3.20.h3.vichex.ca.,
 2195,6kgrwkweaaaa,0.0.0.0.0.0.1.6.2.5.4.5.1.2.3.20.h3.vichex.ca.,
 2196,6kgrw2weaaaa,0.0.0.0.0.0.1.6.2.5.5.5.1.2.3.20.h3.vichex.ca.,
@@ -2311,7 +2311,7 @@ child_num,hex_id,dns_mapping,notes
 2309,6kgrxboeaaaa,0.0.0.0.0.0.1.6.5.0.6.5.1.2.3.20.h3.vichex.ca.,
 2310,6kgrudoeaaaa,0.0.0.0.0.0.1.6.5.1.0.5.1.2.3.20.h3.vichex.ca.,
 2311,6kgrutoeaaaa,0.0.0.0.0.0.1.6.5.1.1.5.1.2.3.20.h3.vichex.ca.,
-2312,6kgrvdoeaaaa,0.0.0.0.0.0.1.6.5.1.2.5.1.2.3.20.h3.vichex.ca.,"Blenkinsop Valley"
+2312,6kgrvdoeaaaa,0.0.0.0.0.0.1.6.5.1.2.5.1.2.3.20.h3.vichex.ca.,"Blenkinsop Valley Common Crawl"
 2313,6kgrvtoeaaaa,0.0.0.0.0.0.1.6.5.1.3.5.1.2.3.20.h3.vichex.ca.,
 2314,6kgrwdoeaaaa,0.0.0.0.0.0.1.6.5.1.4.5.1.2.3.20.h3.vichex.ca.,
 2315,6kgrwtoeaaaa,0.0.0.0.0.0.1.6.5.1.5.5.1.2.3.20.h3.vichex.ca.,
