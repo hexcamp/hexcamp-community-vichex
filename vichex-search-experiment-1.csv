@@ -1,10 +1,10 @@
 child_num,hex_id,dns_mapping,notes
 0,6kgruaaeaaaa,0.0.0.0.0.0.1.0.0.0.0.5.1.2.3.20.h3.vichex.ca.,"Map of Common Crawl Archives"
 1,6kgruqaeaaaa,0.0.0.0.0.0.1.0.0.0.1.5.1.2.3.20.h3.vichex.ca.,"Search Experiment HackMD"
-2,6kgrvaaeaaaa,0.0.0.0.0.0.1.0.0.0.2.5.1.2.3.20.h3.vichex.ca.,"Stract Index Data"
-3,6kgrvqaeaaaa,0.0.0.0.0.0.1.0.0.0.3.5.1.2.3.20.h3.vichex.ca.,"Stract Search Backend"
-4,6kgrwaaeaaaa,0.0.0.0.0.0.1.0.0.0.4.5.1.2.3.20.h3.vichex.ca.,"Stract Frontend"
-5,6kgrwqaeaaaa,0.0.0.0.0.0.1.0.0.0.5.5.1.2.3.20.h3.vichex.ca.,
+2,6kgrvaaeaaaa,0.0.0.0.0.0.1.0.0.0.2.5.1.2.3.20.h3.vichex.ca.,"Stract Build Data"
+3,6kgrvqaeaaaa,0.0.0.0.0.0.1.0.0.0.3.5.1.2.3.20.h3.vichex.ca.,"Stract Search Backend - Community Associations"
+4,6kgrwaaeaaaa,0.0.0.0.0.0.1.0.0.0.4.5.1.2.3.20.h3.vichex.ca.,"Stract Frontend - Community Associations"
+5,6kgrwqaeaaaa,0.0.0.0.0.0.1.0.0.0.5.5.1.2.3.20.h3.vichex.ca.,"Stract Index Data - Community Associations"
 6,6kgrxaaeaaaa,0.0.0.0.0.0.1.0.0.0.6.5.1.2.3.20.h3.vichex.ca.,
 7,6kgrucaeaaaa,0.0.0.0.0.0.1.0.0.1.0.5.1.2.3.20.h3.vichex.ca.,
 8,6kgrusaeaaaa,0.0.0.0.0.0.1.0.0.1.1.5.1.2.3.20.h3.vichex.ca.,
