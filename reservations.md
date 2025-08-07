@@ -1,5 +1,6 @@
-# Hex.Camp global reserved block
+# Hex.Camp global reserved blocks
 
+`*.*.5.5.5.*.*.*.*.*.*.*.*.*.*.*`
 `*.*.6.6.6.*.*.*.*.*.*.*.*.*.*.*`
 
 ## IPFS
